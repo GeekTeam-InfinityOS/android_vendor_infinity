@@ -131,9 +131,6 @@ PRODUCT_PACKAGES += \
 # Branding
 include vendor/aosp/config/branding.mk
 
-# OTA
-include vendor/aosp/config/ota.mk
-
 # GApps
 include vendor/gapps/config.mk
 
